@@ -1,7 +1,10 @@
 # trabalho_banco_de_dados
 integrante : Luiz Henrique Chauca Mamani
 RA : 183665
-função : desenvolvimento dos scripts das tabelas e das inserções de dados, assim como testes e verificação de erros e problemas
+função : desenvolvimento dos scripts das tabelas e das inserções de dados
+integrante : Kaio Alves Torres
+RA : 060214
+função : analise de testes e verificação de erros e problemas
 
 descrição :
 O banco de dados USR_GESTAO_ACAD é projetado para gerenciar um sistema acadêmico, como o de uma faculdade ou universidade, organizando informações sobre cursos, professores, disciplinas, estudantes e matrículas. 
